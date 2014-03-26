@@ -23,5 +23,5 @@ After all is said and done, just deploy to your favorite directory.
 ## License
 
 This package is published under the MIT license, see the enclosed LICENSE
-file for details.
+file for details. 
 
