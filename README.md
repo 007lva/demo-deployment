@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/alexfernandez/demo-deployment.png)](http://travis-ci.org/alexfernandez/demo-deployment)
+[![Build Status](https://secure.travis-ci.org/007lva/demo-deployment.png)](http://travis-ci.org/007lva/demo-deployment)
 
 # demo-deployment
 
